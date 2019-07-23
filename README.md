@@ -1,0 +1,2 @@
+# Cancer-prediction-using-mammogram-data-
+Predicting if a mass detected in a mammogram is benign or maligant ,on the basis of that we can easily tell that whether its sign of cancer or not. previously this work is done using seeing the mammogram image manually by doctor predicting whether its maligant or not but now we are using Machine learning model to learn from previous patient data and predict for new patient whether they have to worry or not.
