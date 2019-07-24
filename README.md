@@ -1,4 +1,4 @@
-﻿**Predicting Cancer  mammogram data**
+﻿**Predicting Cancer using mammogram data**
 A mammogram is an x-ray picture of the breast. 
 
 ![enter image description here](https://s3-us-west-2.amazonaws.com/utsw-patientcare-web-production/original_images/blog_oct_19_2017_3d-mammogram-texas-insurance-2.jpg)
